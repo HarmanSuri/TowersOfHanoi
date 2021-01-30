@@ -1,5 +1,5 @@
 # TowersOfHanoi
-Gives moves to solve the Towers of Hanoi puzzle using recursion.
+Gives a list of moves to solve the Towers of Hanoi puzzle using recursion.
 
 # What are the Towers of Hanoi?
 The Towers of Hanoi is a puzzle where a number of disks are stacked on top of each other 
